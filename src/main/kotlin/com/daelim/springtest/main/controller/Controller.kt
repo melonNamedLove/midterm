@@ -106,4 +106,6 @@ class Controller {
 
     }
     //lotto post
+
+    //lotto check
 }
