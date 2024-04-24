@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.graphql:spring-graphql:1.2.5" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.springframework.graphql" artifactId="spring-graphql" version="1.2.5" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.graphql/spring-graphql/1.2.5/538ca29b52ef1c825ca8537e8574ce21111649d1/spring-graphql-1.2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

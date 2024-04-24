@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.graphql-java-kickstart:graphql-kickstart-spring-webflux:15.1.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.graphql-java-kickstart" artifactId="graphql-kickstart-spring-webflux" version="15.1.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.graphql-java-kickstart/graphql-kickstart-spring-webflux/15.1.0/8ae3c57887fa2e24be87d0ff42bb9c350f0f9bd9/graphql-kickstart-spring-webflux-15.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

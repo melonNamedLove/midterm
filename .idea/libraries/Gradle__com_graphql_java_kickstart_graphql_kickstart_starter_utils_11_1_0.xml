@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.graphql-java-kickstart:graphql-kickstart-starter-utils:11.1.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.graphql-java-kickstart" artifactId="graphql-kickstart-starter-utils" version="11.1.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.graphql-java-kickstart/graphql-kickstart-starter-utils/11.1.0/f382b67ed25041b565f171e2312c127d2a94cd87/graphql-kickstart-starter-utils-11.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

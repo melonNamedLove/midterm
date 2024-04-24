@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.graphql-java:graphql-java-extended-scalars:21.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.graphql-java" artifactId="graphql-java-extended-scalars" version="21.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.graphql-java/graphql-java-extended-scalars/21.0/22856d825a46294731a9eaecbf2e76e51678ab3d/graphql-java-extended-scalars-21.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

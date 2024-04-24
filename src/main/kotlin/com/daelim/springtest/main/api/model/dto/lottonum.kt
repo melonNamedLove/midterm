@@ -5,5 +5,5 @@ data class lottonum(
     var num2:MutableList<Int>,
     var num3:MutableList<Int>,
     var num4:MutableList<Int>,
-    var num5:MutableList<Int>,
+    var num5:MutableList<Int>
 )

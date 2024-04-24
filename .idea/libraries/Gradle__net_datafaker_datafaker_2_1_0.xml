@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: net.datafaker:datafaker:2.1.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="net.datafaker" artifactId="datafaker" version="2.1.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.datafaker/datafaker/2.1.0/17220b78e890239ad13988a8e1f5655026799b1b/datafaker-2.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

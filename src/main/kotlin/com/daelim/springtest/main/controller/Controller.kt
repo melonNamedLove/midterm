@@ -16,12 +16,12 @@ import org.springframework.http.HttpStatusCode
 @RestController
 class Controller {
     private val log = LoggerFactory.getLogger(this.javaClass)!!     //log 사용위해 선언
-//    private val bulletin = mutableListOf<bbDTO>()              //기존 변수 tests -> bulletin으로 수정
+    //    private val bulletin = mutableListOf<bbDTO>()              //기존 변수 tests -> bulletin으로 수정
     private val userList = mutableListOf<userData>()
 
     @GetMapping("/user/login")            //login
     fun loginUser(
-    @RequestBody user: userLoginData
+        @RequestBody user: userLoginData
     ): ResponseEntity<userData> {
         val userInput = userLoginData(
             email = user.email,
@@ -36,11 +36,11 @@ class Controller {
                 }
             }
         }
-    var returnData = userData(
-        fullName = userList[found].fullName,
-                email = userList[found].email,
-                password = userList[found].password
-    )
+        var returnData = userData(
+            fullName = userList[found].fullName,
+            email = userList[found].email,
+            password = userList[found].password
+        )
 
         if (found < 0){
 ////            return HttpStatusCode.valueOf(404)
@@ -70,7 +70,7 @@ class Controller {
     }
 
     var lottoList = mutableListOf<List<Int>>()
-    
+
     @GetMapping("/lotto")            //lotto
     fun lottolotto(
     ): ResponseEntity<lottonum> {
@@ -85,8 +85,8 @@ class Controller {
             num3 = nr3,
             num4 = nr4,
             num5 = nr5,
-            
-        )
+
+            )
 
         for ( i:Int in 0 until 5){
 
@@ -102,8 +102,8 @@ class Controller {
             }
         }
 
-        return ResponseEntity.ok().body(returnLotto) 
+        return ResponseEntity.ok().body(returnLotto)
 
     }
-    
+
 }
